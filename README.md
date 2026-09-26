@@ -9,13 +9,9 @@ This repo is my public commitment tracker — code, patterns every day as I work
 Not just patterns — this repo will grow to cover everything from the sheet:
 arrays, strings, recursion, sorting, searching, linked lists, trees, graphs, DP, and more.
 
-## Progress Log
+## ✅ Progress Log
 
-| Day | Topic              | Notes                              |
-|-----|---------------------|-------------------------------------|
-| 1   | Pattern Printing    | Right-angled, inverted, square, number triangles |
-
-*(I'll add a new row each day I commit.)*
+Currently learning **pattern printing using nested loops** — right-angled, inverted, pyramid, and number variations — as part of building a strong DSA foundation before moving to arrays, recursion, and beyond.
 
 ##  Goal
 
